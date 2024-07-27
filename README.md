@@ -7,7 +7,7 @@
 <div align="center">
 	<img width="10%" src="./icons/skills/python.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="20%" src="./icons/skills/go.svg">
+	<img width="22%" src="./icons/skills/go_blue.png">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img width="12%" src="./icons/skills/aws.png">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
